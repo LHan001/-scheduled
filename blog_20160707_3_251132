@@ -1,0 +1,1 @@
+<task:scheduler id="myScheduler" pool-size="5"/>
